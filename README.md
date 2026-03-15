@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Sawruu</h1>
+<h1 align="center">Hi, I'm Sawruu <img src="https://media.giphy.com/media/hvRJCLFzcasrng15KV/giphy.gif" width="30px" height="30px"/></h1>
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhEV60Z3/giphy.gif" width="50" alt="coding" />
+</p>
 <h3 align="center">Coding and learning new things</h3>
 
 ---
