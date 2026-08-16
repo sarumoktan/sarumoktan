@@ -2,8 +2,6 @@
 
 <img src="./saru.gif" width="180" alt="sarumoktan" />
 
-### 💖 "I don't watch anime, I code anime."
-
 </div>
 
 ---
@@ -12,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarumoktan&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="sarumoktan's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sarumoktan&show_icons=true&theme=radical&hide_border=true" alt="sarumoktan's GitHub Stats" />
 
 </div>
 
