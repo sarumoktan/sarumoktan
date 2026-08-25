@@ -1,91 +1,266 @@
 <div align="center">
 
-<img src="./saru.gif" width="180" alt="sarumoktan" />
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
-</div>
+<img
+  src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:061014,100:000000&height=250&section=header&text=SAWRUU&fontSize=90&fontColor=ffffff&fontAlignY=43&desc=Building%20Ideas%20into%20Digital%20Experiences&descAlignY=67&descSize=16&descColor=00fff0&fontAlign=50"
+  width="100%"
+  alt="SAWRUU"
+/>
 
----
+<br>
 
-## 📊 GitHub Stats & Graphs
+<!-- ========================================================= -->
+<!-- TYPING -->
+<!-- ========================================================= -->
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=1200&color=00FFF0&center=true&vCenter=true&width=750&lines=FULL+STACK+DEVELOPER;BUILDING+MODERN+WEB+EXPERIENCES;TURNING+IDEAS+INTO+CODE;LEARNING+NEW+TECHNOLOGIES;CREATING+DIGITAL+EXPERIENCES"
+    alt="Typing SVG"
+  />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarumoktan&show_icons=true&theme=radical&hide_border=true" alt="sarumoktan's GitHub Stats" />
+<br><br>
 
-</div>
+<!-- ========================================================= -->
+<!-- ABOUT ME -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h2>
+  <code>✦ ─────────────── ABOUT ME ─────────────── ✦</code>
+</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarumoktan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<br>
 
-</div>
+<p>
+  I'm <strong>Sawruu</strong>, a developer who enjoys building modern,
+  interactive and meaningful digital experiences.
+</p>
 
-<div align="center">
+<p>
+  I love learning new technologies, experimenting with creative ideas,
+  and turning concepts into real-world applications.
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarumoktan&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br>
 
-</div>
+<img
+  src="https://img.shields.io/badge/FOCUS-Full%20Stack%20Development-00fff0?style=for-the-badge&labelColor=050505&color=050505"
+  alt="Focus"
+/>
 
----
+<img
+  src="https://img.shields.io/badge/MINDSET-Learn%20%7C%20Build%20%7C%20Improve-00fff0?style=for-the-badge&labelColor=050505&color=050505"
+  alt="Mindset"
+/>
 
-## 📈 Contribution Graph
+<br><br>
 
-<div align="center">
+<!-- ========================================================= -->
+<!-- TECH STACK -->
+<!-- ========================================================= -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sarumoktan&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<h2>
+  <code>✦ ─────────────── TECH STACK ─────────────── ✦</code>
+</h2>
 
-</div>
+<br>
 
----
+<img
+  src="https://skillicons.dev/icons?i=java,js,ts,py,react,tailwind,mysql,postgres,firebase,github&theme=dark&perline=8"
+  alt="Technology Stack"
+/>
 
-## 🏆 Trophies
+<br><br>
 
-<div align="center">
+<!-- ========================================================= -->
+<!-- GITHUB ACTIVITY -->
+<!-- ========================================================= -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=sarumoktan&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
+<h2>
+  <code>✦ ─────────────── GITHUB ACTIVITY ─────────────── ✦</code>
+</h2>
 
-</div>
+<br>
 
----
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=sarumoktan&theme=dark&background=0D1117&border=555555&stroke=00FFF0&ring=00FFF0&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFF0&sideLabels=FFFFFF&dates=888888"
+  width="700"
+  alt="GitHub Streak Stats"
+/>
 
-## 💻 Languages & Tools
+<br><br>
 
-<div align="center">
+<!-- ========================================================= -->
+<!-- CONTRIBUTION SNAKE -->
+<!-- ========================================================= -->
 
-<img src="https://skillicons.dev/icons?i=js,py,react,mysql,postgres,tailwind" alt="Languages and Tools" />
+<h2>
+  <code>✦ ─────────────── CONTRIBUTION SNAKE ─────────────── ✦</code>
+</h2>
 
-</div>
+<br>
 
----
+<img
+  src="https://raw.githubusercontent.com/sarumoktan/sarumoktan/snake-output/snake.svg"
+  width="100%"
+  alt="Contribution Snake"
+/>
 
-## 🐍 Watch the snake eat my contributions
+<br><br>
 
-<div align="center">
+<!-- ========================================================= -->
+<!-- CURRENTLY LEARNING -->
+<!-- ========================================================= -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sarumoktan/sarumoktan/output/github-contribution-grid-snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/sarumoktan/sarumoktan/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</picture>
+<h2>
+  <code>✦ ───────────── CURRENTLY LEARNING ───────────── ✦</code>
+</h2>
 
-</div>
+<br>
 
----
+<table align="center">
 
-## 🔗 Let's Connect
+<tr>
 
-<div align="center">
+<td align="center" width="220">
+<br>
 
-<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sarumoktan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<img
+  src="https://img.icons8.com/fluency-systems-filled/48/00fff0/globe.png"
+  alt="Web Development"
+/>
 
-</div>
+<br><br>
 
----
+<strong>WEB DEVELOPMENT</strong>
 
-<div align="center">
+<br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sarumoktan&color=ff69b4)
+<sub>Modern & Responsive Web Apps</sub>
+
+<br>
+
+</td>
+
+<td align="center" width="220">
+<br>
+
+<img
+  src="https://img.icons8.com/fluency-systems-filled/48/00fff0/server.png"
+  alt="Backend Development"
+/>
+
+<br><br>
+
+<strong>BACKEND DEVELOPMENT</strong>
+
+<br><br>
+
+<sub>APIs & Server Architecture</sub>
+
+<br>
+
+</td>
+
+<td align="center" width="220">
+<br>
+
+<img
+  src="https://img.icons8.com/fluency-systems-filled/48/00fff0/database.png"
+  alt="Database Systems"
+/>
+
+<br><br>
+
+<strong>DATABASE SYSTEMS</strong>
+
+<br><br>
+
+<sub>SQL & NoSQL Technologies</sub>
+
+<br>
+
+</td>
+
+<td align="center" width="220">
+<br>
+
+<img
+  src="https://img.icons8.com/fluency-systems-filled/48/00fff0/design.png"
+  alt="UI UX"
+/>
+
+<br><br>
+
+<strong>UI / UX</strong>
+
+<br><br>
+
+<sub>Interactive Digital Experiences</sub>
+
+<br>
+
+</td>
+
+</tr>
+
+</table>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!-- CONNECT -->
+<!-- ========================================================= -->
+
+<h2>
+  <code>✦ ─────────────── CONNECT ─────────────── ✦</code>
+</h2>
+
+<br>
+
+<a href="https://github.com/sarumoktan">
+  <img
+    src="https://img.shields.io/badge/GITHUB-sarumoktan-050505?style=for-the-badge&logo=github&logoColor=00fff0&labelColor=050505&color=050505"
+    alt="GitHub"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/sawruu_moktan/">
+  <img
+    src="https://img.shields.io/badge/INSTAGRAM-sawruu__moktan-050505?style=for-the-badge&logo=instagram&logoColor=00fff0&labelColor=050505&color=050505"
+    alt="Instagram"
+  />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://portfolio-dun-one-73.vercel.app">
+  <img
+    src="https://img.shields.io/badge/PORTFOLIO-Sawruu-050505?style=for-the-badge&logo=vercel&logoColor=00fff0&labelColor=050505&color=050505"
+    alt="Portfolio"
+  />
+</a>
+
+<br><br>
+
+<!-- ========================================================= -->
+<!-- FOOTER -->
+<!-- ========================================================= -->
+
+<h3>
+  <code>Code • Create • Learn • Build</code>
+</h3>
+
+<br>
+
+<sub>
+  Designed & Built by <strong>Sawruu</strong>
+</sub>
 
 </div>
